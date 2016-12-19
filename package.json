@@ -1,0 +1,24 @@
+{
+  "name": "teamMaker",
+  "version": "1.0.0",
+  "description": "teamMaker",
+  "main": "script.js",
+  "dependencies": {
+    "gm.drag-drop": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamleonhardt/teamMaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamleonhardt/teamMaker/issues"
+  },
+  "homepage": "https://github.com/iamleonhardt/teamMaker#readme"
+}
