@@ -18,7 +18,8 @@
                 { name: "Sean G" },
                 { name: "Patrick" },
                 { name: "Mike" },
-                { name: "Vernon" }
+                { name: "Vernon" },
+                { name: "Cung"}
             ]
         };
 
