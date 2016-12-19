@@ -37,14 +37,12 @@
             ]
         };
 
-
         $rootScope.onHover = function(item) {
             return function(dragItem, mouseEvent) {
                 if(item != dragItem)
                     dragItem.order = item.order + ((mouseEvent.offsetY || -1) > 0 ? 0.5 : -0.5)
             }
         };
-
 
         $rootScope.getDropHandler = function(category) {
             return function(dragOb) {
